@@ -1,3 +1,4 @@
+PROJECT CREATED BY : NAVIN D
 # Bus Reservation System
 
 This is a simple Bus Reservation System built using Python and Django framework. The system allows users to search for available buses, make reservations, and view their booking details.
