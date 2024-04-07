@@ -1,4 +1,6 @@
 PROJECT CREATED BY : NAVIN D
+REGISTER NO        : 511321104062
+COLLLEGE NAME      : KINGSTON ENGINEERING COLLLEGE     ,(VELLORE DISTRICT).
 # Bus Reservation System
 
 This is a simple Bus Reservation System built using Python and Django framework. The system allows users to search for available buses, make reservations, and view their booking details.
